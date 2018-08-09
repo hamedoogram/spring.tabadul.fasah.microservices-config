@@ -6,9 +6,6 @@ eureka:
         serviceUrl:
              defaultZone: http://localhost:8761/eureka/
              
-             #spring.datasource.driver-class-name=com.mysql.jdbc.Driver
-             
-swarm:
   datasources:
     jdbc-drivers:
       com.mysql:
